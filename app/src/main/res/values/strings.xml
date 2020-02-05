@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DemoAlertDialog</string>
+
+
+
+
+    <string name="year">Year</string>
+    <string name="choose_car">Choose Car</string>
+    <string name="select_your_model">Select Your Model</string>
+    <string name="choose_engine">Choose Engine</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="engine">Engine</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="your_subject">Your Subject</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="paytm">Paytm</string>
+    <string name="order_id">Order Id</string>
+    <string name="amount_to_pay">Amount To Pay</string>
+    <string name="username">username</string>
+    <string name="welcome">Welcome</string>
+    <string name="other">Other</string>
+    <string name="enter_your_engine_type">Enter your Engine Type</string>
+    <string name="enter_your_zip_post_code">Enter your Zip/Post Code</string>
+    <string name="enter_your_engine_model">Enter your Engine Model</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="input_message">Input Message</string>
+    <string name="rs_xxx">Rs. XXX</string>
+    <string name="orderid01xxxxx">ORDERID01XXXXX</string>
+    <string name="address">Address</string>
+    <string name="date">Date :</string>
+    <string name="year_car">Year :</string>
+    <string name="model">Model :</string>
+    <string name="pick_a_date">Pick a Date</string>
+</resources>
